@@ -1,0 +1,23 @@
+# Datasets (arquivos grandes, baixados em tempo de execução)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Claude Code
+.claude/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Modelos e pesos
+*.pt
+*.pth
+*.onnx
+
+# Sistema
+.DS_Store
