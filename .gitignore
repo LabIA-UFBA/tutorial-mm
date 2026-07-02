@@ -19,5 +19,8 @@ env/
 *.pth
 *.onnx
 
+# Artefatos de treino (Ultralytics YOLO)
+runs/
+
 # Sistema
 .DS_Store
