@@ -43,5 +43,6 @@ Datasets and model weights are downloaded automatically by the notebooks into `d
 
 If you use these datasets, please cite the original papers:
 
-- Andrade et al. (2024). *Scientific Reports*, 14:11176.
-- Andrade et al. (2025). *Scientific Data*, 12:161.
+- Batista Filho, J.L.S., Nogueira Rios, T., Araújo Rios, R.: Synthetic Data Augmentation for Plasmocyte Detection in Bone Marrow Images. In: Brazilian Conference on Intelligent Systems (BRACIS) (2026).
+- Andrade, C.L.B., Ferreira, M.V., Alencar, B.M., et al.: PCMMD: A novel dataset of plasma cells to support the diagnosis of multiple myeloma. Scientific Data 12(1), 161 (2025). doi.org/10.1038/s41597-025-04459-1.
+- Andrade, C.L.B., Ferreira, M.V., Alencar, B.M., et al.: Enhancing diagnostic accuracy of multiple myeloma through ML-driven analysis of hematological slides. Scientific Reports 14(1), 11176 (2024). doi.org/10.1038/s41598-024-61420-9.
