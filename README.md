@@ -35,6 +35,10 @@ Requires Python with Jupyter (`ipykernel`), PyTorch, Ultralytics YOLO, and Huggi
 
 Datasets and model weights are downloaded automatically by the notebooks into `data/` and are not tracked in git (see `.gitignore`). No manual setup is required beyond internet access on first run.
 
+## Slides
+
+`slides/` holds the presentation materials for the tutorial.
+
 ## Citation
 
 If you use these datasets, please cite the original papers:
